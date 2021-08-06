@@ -4,10 +4,14 @@ MIT
 @angular/core
 MIT
 
+@angular/forms
+MIT
+
 @angular/platform-browser
 MIT
 
 ngx-http-loader
+MIT
 
 rxjs
 Apache-2.0
